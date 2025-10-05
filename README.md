@@ -1,12 +1,30 @@
-# React + Vite
+# 🤖 AI-Powered Components Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Demo:** [https://ai-components-generator-cyan.vercel.app/](https://ai-components-generator-cyan.vercel.app/)
 
-Currently, two official plugins are available:
+An AI-driven web app that generates reusable, production-ready UI components instantly from natural language prompts using **React**, **Tailwind CSS**, and **Gemini API**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React.js** — Frontend framework  
+- 🎨 **Tailwind CSS** — Utility-first CSS styling  
+- 🧠 **Gemini API (Google AI)** — For intelligent component code generation  
+- ☁️ **Vercel** — Hosting and deployment
+
+---
+
+## ✨ Features
+
+- 📝 Enter a natural language prompt describing your desired UI component  
+- ⚙️ Generates clean, responsive React + Tailwind component code  
+- 🧩 Live preview of generated UI  
+- 📋 One-click copy to clipboard  
+- 💾 Download generated code for use in your project  
+- ⚡ Instant response powered by Gemini AI
+
+---
+
+## 🧱 Project Structure
+
