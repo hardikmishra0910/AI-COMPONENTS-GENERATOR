@@ -26,5 +26,15 @@ An AI-driven web app that generates reusable, production-ready UI components ins
 
 ---
 
-## 🧱 Project Structure
+## ⚙️ How It Works
+
+ - User provides a text description (e.g., “a profile card with avatar, name, and button”).
+
+ - The app sends this prompt to Gemini API.
+
+ - Gemini responds with React + Tailwind component code.
+
+ - The app displays a live preview and the generated code.
+
+ - User can copy or download the component instantly.
 
